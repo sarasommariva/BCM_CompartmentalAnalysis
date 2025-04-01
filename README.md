@@ -4,7 +4,7 @@ Matlab code for comparing a biochemically driven three-compartment model (BCM) a
 
 The code allows to reproduce the results shown in 
 
-* Sommariva S, Scussolini M, Cossu V, Marini C, Sambuceti G, Caviglia G and Piana M "The role of endoplasmic reticulum inin vivocancer FDGkinetics", preprint 
+* Sommariva S, Scussolini M, Cossu V, Marini C, Sambuceti G, Caviglia G and Piana M "The role of endoplasmic reticulum inin vivocancer FDGkinetics", PLoS One 16 (6), e0252422 
 
 # Usage:
 
